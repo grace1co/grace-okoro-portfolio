@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 241 200" role="img" aria-labelledby="title">
+  <title id="title">Personal Cloud Dashboard</title>
+  <rect width="241" height="200" fill="#77998d"/>
+  <g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M129 43L143 84L188 101L145 118L129 163L112 119L67 102L111 85Z" stroke-width="14"/>
+    <path d="M81 43V70M68 57H95" stroke-width="14"/>
+    <path d="M176 136V164M162 150H190" stroke-width="14"/>
+  </g>
+</svg>
