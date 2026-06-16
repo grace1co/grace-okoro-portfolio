@@ -240,8 +240,8 @@ const Projects = () => {
         "RAG-powered answers and research reports with citations tied to crawled source pages.",
         "Dynamic website quality scoring based on the content and structure discovered during each crawl."
       ],
-      detailsUrl: "/projects/project-four",
-      githubUrl: socialLinks.repositories.projectFour
+      detailsUrl: "https://webbrief-ai.vercel.app/",
+      githubUrl: "https://github.com/grace1co/webbrief-ai/tree/main"
     },
     {
       title: "Enyi Path",
